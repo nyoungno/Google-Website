@@ -1,30 +1,30 @@
 body {
     display: contents;
   }
-.navbar-right {
+  .navbar-right {
     float: right;
     margin: 20px;
   }
-.navbar-left {
+  .navbar-left {
     float: left;
     margin: 20px;
   }
-.nav-item {
+  .nav-item {
     text-decoration: none;
     color: black;
     margin-right: 15px; 
   }
-.nav-item:hover {
+  .nav-item:hover {
     text-decoration: underline; 
   }
-.main {
+  .main {
     margin-top: 300px;
     text-align: center;
   }
-.input-area {
+  .input-area {
     margin-top: 20px;
   }
-.input-box {
+  .input-box {
     width: 561px;
     height: 44px;
     border-radius: 24px;
@@ -32,25 +32,25 @@ body {
     padding-left: 40px;
     padding-right: 90px;
   }
-.search-icon {
+  .search-icon {
     position: relative;
     left: 40px;
     color: #9aa0a6;
   }
-.mic-icon {
+  .mic-icon {
     position: relative;
     right: 80px;
     color: #9aa0a6;
   }
-.img-icon {
+  .img-icon {
     position: relative;
     right: 60px;
     color: #9aa0a6;
   }
-.button-area {
+  .button-area {
     padding-top: 18px;
   }
-.button-style {
+  .button-style {
     background-color: #f8f9fa;
     border: 1px solid #f8f9fa;
     font-size: 14px;
@@ -64,30 +64,30 @@ body {
     user-select: none;
     font-family: arial,sans-serif;
   }
-.button-style:hover {
+  .button-style:hover {
     box-shadow: 0 1px 1px rgba(0,0,0,.1);
     background-color: #f8f9fa;
     border: 1px solid #dadce0;
     color: #202124;
   }
-.footer {
+  .footer {
     position: absolute;
     bottom: 0px;
     background: #f2f2f2;
     width: 100%;
   }
-.first-line {
+  .first-line {
     padding: 15px 30px;
     border-bottom: 1px solid #dadce0;
     font-size: 15px;
     color: #202124;
   }
-.second-line {
+  .second-line {
     padding: 15px 30px;
     font-size: 14px;
     color: #202124;
   }
-.second-line-second {
+  .second-line-second {
     float: right;
     color: #202124;;
   }
