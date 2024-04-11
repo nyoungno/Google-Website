@@ -3,7 +3,7 @@
 ## 포트폴리오 웹사이트 링크 : <https://nyoungno-google.netlify.app/>
 
 ### 개발 목표
-웹사이트의 구조를 파악하고 google사이트 내에 정보를 활용하여 제작
+웹사이트의 구조를 파악하고 google사이트 내에 정보(inspect 또는 검사 클릭)를 활용하여 제작
 
 ### 사용기술
 - HTML
